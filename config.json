@@ -1,0 +1,21 @@
+{
+    "attack": {
+        "success_chance": 0.8,
+        "damage_range": [
+            10,
+            20
+        ]
+    },
+    "defend": {
+        "success_chance": 0.7,
+        "damage_reduction": 0.5
+    },
+    "heal": {
+        "success_chance": 0.6,
+        "heal_range": [
+            5,
+            15
+        ]
+    },
+    "initial_health": 100
+}
